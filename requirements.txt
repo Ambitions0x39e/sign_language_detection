@@ -1,0 +1,8 @@
+mediapipe
+matplotlib
+opencv-python
+pickle
+pandas
+numpy
+scikit-learn==1.3.2
+collections
